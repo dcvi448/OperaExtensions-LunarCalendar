@@ -1,4 +1,4 @@
-Lunar Calendar Opera Extensions - Âm lịch cho người Việt trên Opera
+Lunar Calendar Extensions - Âm lịch cho người Việt trên Chrome, Coc Coc, Edge, Opera và Firefox
 ======
 **Lunar Calendar Extensions** là extension cung cấp thông tin cho người Việt bao gồm: Âm và Dương lịch hiện tại, tiết khí, giờ hoàng đạo, các ngày lễ,...
 
