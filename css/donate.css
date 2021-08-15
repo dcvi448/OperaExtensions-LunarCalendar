@@ -1,0 +1,12 @@
+img {
+    max-width: 100px;
+    height: auto;
+    padding-top: 1rem;
+}
+#donate{
+    padding-top: 1rem;
+}
+.desc {
+    text-align: center;
+    font-weight: bold;
+}
